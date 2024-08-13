@@ -2,6 +2,9 @@
 WORK IN PROGRESS
 A hacky bash script that uses cwebp to handle bulk converting of jpg and png images. Also has a python script to handle changing of image colors from 'CMYK' to 'RGB' before running the webp conversion. The bash script loops through parent and child directories and creates webp versions of any jpg and png images. Retains names and folder structures.
 
+Just found this site. https://understandingdata.com/posts/how-to-convert-your-images-into-next-generation-formats-webp-in-python/
+Would have saved me so much time. But I did learn some stuff about bash scripts so it's still a win
+
 Do not alter the files or folders in any other way. 
     - Create formatted copies of the images
     - Retain the same file / folder name
